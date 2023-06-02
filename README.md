@@ -1,4 +1,4 @@
-# Classification-Projects
+# Classification-Project
 
 We get the HealthCare dataset from the almabetter for our capstone project based on Classification ML algorithm. This data set contains rows 381109 and 12 Column.
 
